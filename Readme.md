@@ -9,14 +9,15 @@ Software Engineering is the process of developing, designing and maintaining hig
 It is the systematic application of engineering principles, methods and tools to the development, design and maintenance of high quality software systems. 
 
 
+
 Identify and describe at least three key milestones in the evolution of software engineering.
 
+The development of Programming Languages (e.g. ForTran C) 
 
-Development of Programming Languages (e.g. ForTran C) 
+The establishment of Software engineering as a discipline in the 1960s
 
-Establishment of Software engineering as a discipline in the 1960s
+The advent of structured programming in the 1970s and the rise of agile methodologies in the 2000s
 
-Enabling of structured programming in the 1970s and introduction to agile
 
 
 
