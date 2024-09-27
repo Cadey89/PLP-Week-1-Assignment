@@ -3,6 +3,7 @@ Part 1: Introduction to Software Engineering
 
 
 Explain what software engineering is and discuss its importance in the technology industry.
+Software Engineering is the process of developing, designing and maintaining high quality software 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
