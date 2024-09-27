@@ -21,6 +21,7 @@ The advent of structured programming in the 1970s and the rise of agile methodol
 
 
 
+
 List and briefly explain the phases of the Software Development Life Cycle.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
