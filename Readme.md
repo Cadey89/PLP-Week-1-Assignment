@@ -9,6 +9,14 @@ It is the systematic application of engineering principles, methods and tools to
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
+Development of Programming Languages (e.g. ForTran C) 
+
+Establishment of Software engineering as a discipline in the 1960s
+
+Enabling of structured programming in the 1970s and introduction to agile
+
+
+
 List and briefly explain the phases of the Software Development Life Cycle.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
