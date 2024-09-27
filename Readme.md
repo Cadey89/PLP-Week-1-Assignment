@@ -5,6 +5,8 @@ Part 1: Introduction to Software Engineering
 Explain what software engineering is and discuss its importance in the technology industry.
 Software Engineering is the process of developing, designing and maintaining high quality software 
 
+It is the systematic application of engineering principles, methods and tools to the development, design and maintenance of high quality software systems. 
+
 Identify and describe at least three key milestones in the evolution of software engineering.
 
 List and briefly explain the phases of the Software Development Life Cycle.
