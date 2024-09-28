@@ -42,6 +42,12 @@ Maintenance: Providing ongoing support, updates, and enhancements to the softwar
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
+
+Waterfall Methodology: It is sequential and rigid. It is a stricter methodology which limits a teams ability to diverge from the project plan at different stages of the sofware development cycle. Waterfall has clearly defined expectations and helps the teams avoid expensive changes to a peoject once it has started. Waterfall focuses on reducing wastes within an operation
+
+While, Agile Methodology is flexible and iterative emphasizing continuous feedback and adaptation. It gives teams a margin of flexibility at each stage of the software development cycle. This allows for early identification and mitigation of issues through its iterative nature.
+
+
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
