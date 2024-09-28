@@ -4,7 +4,7 @@ Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
-Software Engineering is the process of developing, designing and maintaining high quality software 
+Software Engineering is the process of developing, designing and maintaining software systems.
 
 It is the systematic application of engineering principles, methods and tools to the development, design and maintenance of high quality software systems. 
 
@@ -20,9 +20,25 @@ The advent of structured programming in the 1970s and the rise of agile methodol
 
 
 
-
-
 List and briefly explain the phases of the Software Development Life Cycle.
+
+The Software Development cycle involves
+
+Requirements: Gathering Users needs and system requirements
+
+Design: Creating detailed designs of the software architecture and user interface
+
+Implementation: Writing code and building the software acccording to the design specification
+
+Testing: Conducting various tests to ensure the software meets quality standards
+
+Deployment: Releasing the software to users or customers
+
+Maintenance: Providing ongoing support, updates, and enhancements to the software 
+
+
+
+
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
