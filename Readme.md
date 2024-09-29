@@ -99,10 +99,9 @@ Unit Testing: This is a software development process in which the smallest testa
 
 Integration Testing: This is executed to validate that different software components, subsystems, or aapplications work together as a system to achieve the desired functionality and performance. It is about testing interactions between different components or subsystems. It helps to identify integration problems between components, resolve defects of integration issues early, ensures greater test coverage, more comprehensive than unit tests, improve software reliability, cost-efficient bug fixing, enhanced error localization, increased confidence in deployment
 
-System Testing:
+System Testing: System testing involves testing the entire software system as a whole. this process ultimately boosts the product quality. It improves reliability, performance, quality, security, system reliability, performance, helps with scalability, detecting issues early, ensures customer satisfaction, saves cost and time.
 
-
-Acceptance Testing: 
+Acceptance Testing: Testing the software against user requirements to ensure it meets users needs. Acceptance testing is the final testing stage before a system is released into to production. The main purpose of acceptance testing is to verify that a system: meets all his functional and non-functional requirements. 
 
 Part 2: Introduction to AI and Prompt Engineering
 
