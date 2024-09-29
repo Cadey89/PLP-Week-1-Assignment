@@ -66,6 +66,8 @@ Discuss the importance of Integrated Development Environments (IDEs) and Version
 
 
 Importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process.
+Integrated Development Environments (IDEs) are software suites that provides comprehensive tools for writing, debugging, and testing code (e.g., Visual Studio, Eclipse, IntelliJ IDEA)
+While Version Control Systems (VCS) are software tools for tracking changes to source code and coordinating work among team members (e.g Git, Subversion). IDEs allows developers to start programming new applications quickly because multiple utilities don't need to be manually configured and integrated as part of the set up process. It Saves time as developers don't need to spend hours individually learning how to use different tools when every utility is represented in the same workbench. It combines common developer tools into a single graphical user interface (GUI)
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
