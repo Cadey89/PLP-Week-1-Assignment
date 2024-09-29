@@ -120,9 +120,16 @@ Example of Vague Prompt
 
 Vague Prompt                       Improved, clear and concise prompt
 
+
 'Tell me about a wild animal'-       'Tell me about an elephant'
+
+
 'How to Cook Food'           -       'Give me a Step by Step Process of cooking Rice'
+
+
 'Write me a story'-                  'Write me a love story between Anna and James
+
+
 'How to sell real estate'-           'How to get clients to buy plots of (Gemstone); a landed property
 'How to stay healthy'-               '6 Steps to staying healthy
 'Translate this language,-           'Translate this Ennglish sentence to French
