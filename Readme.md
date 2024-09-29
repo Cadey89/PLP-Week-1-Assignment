@@ -101,7 +101,7 @@ Integration Testing: This is executed to validate that different software compon
 
 System Testing: System testing involves testing the entire software system as a whole. this process ultimately boosts the product quality. It improves reliability, performance, quality, security, system reliability, performance, helps with scalability, detecting issues early, ensures customer satisfaction, saves cost and time.
 
-Acceptance Testing: Testing the software against user requirements to ensure it meets users needs. Acceptance testing is the final testing stage before a system is released into to production. The main purpose of acceptance testing is to verify that a system: meets all his functional and non-functional requirements. 
+Acceptance Testing: Testing the software against user requirements to ensure it meets users needs. Acceptance testing is the final testing stage before a system is released into to production. The main purpose of acceptance testing is to verify that a system: meets all his functional and non-functional requirements. It improves user quality, ensures the software works in the desired manner, confirms the software matches current market standards and competes with similar products in the industry, gains confidence in the software that is getting pushed into production ensuring a seamless user experience
 
 Part 2: Introduction to AI and Prompt Engineering
 
