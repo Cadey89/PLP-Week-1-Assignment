@@ -108,4 +108,9 @@ Part 2: Introduction to AI and Prompt Engineering
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 
+
+Prompt engineering is all about crafting questions or statements to get the best possible responses from AI models.  is the process of writing, refining and optimizing inputs to encourage generative AI systems to create specific, high-quality outputs. It's the art of crafting effective prompts that guide the model's behavior, ensuring effective human-AI communication and produce accurate and relevant outputs. Prompt engineering makes it easy for users to obtain relevant results in the first prompt. It helps mitigate bias that may be present from existing human bias in the large language models' training data. Further, it enhances the user-AI interaction so the AI understands the user's intention even with minimal input. It helps to avoid vague questions by making your questions clear and specific.
+
+
+
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
