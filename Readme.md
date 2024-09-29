@@ -7,7 +7,7 @@ Explain what software engineering is and discuss its importance in the technolog
 
 Software Engineering is the process of developing, designing and maintaining software systems.
 
-It is the systematic application of engineering principles, methods and tools to the development, design and maintenance of high quality software systems. 
+It is the systematic application of engineering principles, methods and tools for the development, design and maintenance of high quality software systems. 
 
 
 
