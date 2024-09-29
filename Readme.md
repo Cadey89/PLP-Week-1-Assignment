@@ -58,7 +58,9 @@ Describe the roles and responsibilities of a Software Developer, a Quality Assur
 Software Developer: A software developer is responsible for writing codes, implementing software solutions,creating and constructing computer programs that run desktop computers, designing, adjusting and upgrading current applications
 
 
-Quality Assurance Engineer: Plan tests, Analyze tests, Execute the test cases, functional testing
+Quality Assurance Engineer: Plan tests, Analyze tests, Execute the test cases, functional testing. A Quality Assurance Engineer ensures software quality by designing and executing test plans.
+
+Project Manager: A Project Manager oversees the planning, execution, and delivery of software projects; gather requirements and identify the resources required to achieve those goals. they assign tasks to software engineering teams according to the specification of a task.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
