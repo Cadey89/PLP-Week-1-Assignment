@@ -118,7 +118,7 @@ Provide an example of a vague prompt and then improve it by making it clear, spe
 Example of Vague Prompt
 
 
-Vague Prompt                                    -Improved, clear and concise prompt
+Vague Prompt                           -Improved, clear and concise prompt
 
 
 'Tell me about a wild animal'-       'Tell me about an elephant'
