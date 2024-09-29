@@ -118,7 +118,7 @@ Provide an example of a vague prompt and then improve it by making it clear, spe
 Example of Vague Prompt
 
 
-Vague Prompt                       Improved, clear and concise prompt
+Vague Prompt                                    -Improved, clear and concise prompt
 
 
 'Tell me about a wild animal'-       'Tell me about an elephant'
@@ -131,9 +131,17 @@ Vague Prompt                       Improved, clear and concise prompt
 
 
 'How to sell real estate'-           'How to get clients to buy plots of (Gemstone); a landed property
+
+
 'How to stay healthy'-               '6 Steps to staying healthy
+
+
 'Translate this language,-           'Translate this Ennglish sentence to French
+
+
 'Teach me how to dance'              'Teach me the Salsa dance'
+
+
 'How to sell massively'              'How to Sell weight loss products massively'
 
 
